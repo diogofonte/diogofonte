@@ -1,5 +1,8 @@
 # About Me:
-💻 Student of Informatics Engineering and Computer Science at FEUP<br>🚀 Passionate about Technology and Innovation<br>
+<div>💻 Student of Informatics Engineering and Computer Science at FEUP</div><br>
+<div>🚀 Passionate about Technology and Innovation</div>
+<br>
+<img src="https://ni.fe.up.pt/favicon.ico" width="40px" height="40px">
 
 
 ## Socials:

@@ -1,5 +1,5 @@
 ## About Me:
-<div>💻 Student of Informatics Engineering and Computer Science at FEUP</div><br>
+<div>💻 Msc in Informatics and Computing Engineering at FEUP</div><br>
 <div>👨🏻‍💻 Junior Software Engineer at Armis Group</div><br>
 <div>🚀 Passionate about Technology and Innovation</div>
 <br>

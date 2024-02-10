@@ -5,7 +5,6 @@
 <br>
 <div class="row">
   <img src="https://talentportugal.com/wp-content/uploads/2019/06/armis_group_emprego_estagio_candidatura_espontanea_recrutamento_oportunidades_trabalho_talent_portugal_logo.jpeg" width="50px" height="50px">
-  <img src="https://ni.fe.up.pt/favicon.ico" width="50px" height="50px">
 </div>
 
 ## Socials:
